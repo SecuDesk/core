@@ -1,0 +1,9 @@
+# CDK asset staging directory
+**/.cdk.staging
+**/cdk.out
+node_modules
+.gitignore
+.npmignore
+.nvmrc
+biome.json
+pnpm-lock.yaml
